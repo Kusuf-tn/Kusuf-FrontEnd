@@ -22,9 +22,14 @@ module.exports = {
           '60%': { transform: 'rotate(0.0deg)' },
           '100%': { transform: 'rotate(0.0deg)' },
         },
+        slider: {
+          '0%': { transform: 'translateX(0)', blur: '0.5rem' },
+          '100%': { transform: 'translateX(200vw)', blur: '0.5rem' },
+        },
       },
       animation: {
         wave: 'wave 1s ease-in-out infinite',
+        slider: 'slider 2s linear ',
       },
     },
   },
