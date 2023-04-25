@@ -1,0 +1,10 @@
+{
+  "manifest_version": 1,
+  "name": "Kusuf",
+  "version": "1.0",
+
+  "default_locale": "fr",
+  "description": "Kusuf est une marque de streetware tunisienne qui propose des vêtements et accessoires de qualité à des prix abordables.",
+
+  "author": "kusuftn@gmail.com"
+}
